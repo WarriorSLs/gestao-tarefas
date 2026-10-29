@@ -8,7 +8,7 @@
 4. Acesse http://127.0.0.1:8000/
 
 ## Imagem dos comandos e respostas dos itens 5 e 6
-![alt text](image-1.png)
+![Consulta no shell](image.png)
 
 ## Registro da Semana 7
 
