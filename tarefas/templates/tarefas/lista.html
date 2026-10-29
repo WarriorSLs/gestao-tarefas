@@ -12,8 +12,9 @@
             {% for tarefa in tarefas %}
                 <li>
                     <strong>{{ tarefa.titulo }}</strong> —
-                    prioridade: {{ tarefa.prioridade }} —
-                    situação: {{ tarefa.situacao }}
+                    categoria: {{ tarefa.categoria.nome }} —
+                    prioridade: {{ tarefa.get_prioridade_display }} —
+                    situação: {{ tarefa.get_situacao_display }}
                 </li>
             {% endfor %}
         </ul>
