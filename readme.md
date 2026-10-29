@@ -14,3 +14,8 @@
 
 **Dificuldade:** esqueci de rodar `migrate` e o Admin deu erro de tabela inexistente.
 **Solução:** rodei `python manage.py migrate` e a tabela foi criada.
+
+## Nome e matrícula:
+
+Bernardo Teixeira Oliveira
+202422934
